@@ -1,0 +1,10 @@
+</script> 
+<divid="console"><span id="a">adham@HTML</span>:<span id="b">~</span><span id="c">#</span> cat adhamsaadi.txt<br><br><br>
+Hello there!
+My name is Adham Al-Saadi.<p>I do some stuff with Computers and <strong>Cyber Security.</strong></p><br><br>
+This is my email:
+<a href="mailto:adham-95@windowslive.com">adham-95@windowslive.com</a><p>And here's my XMPP account:
+<a href="https://conversations.im/i/adham@conversations.im">adham@conversations.im</a><p>There is no place like 127.0.0.1 <br><br><br>
+<p>Have a nice day!</p><hr>
+</div> 
+<script type="text/javascript">
