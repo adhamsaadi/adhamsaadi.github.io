@@ -64,7 +64,7 @@ h3 {
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;  /* Allows wrapping if necessary */
-    gap: 15px; /* Space between links */
+    gap: 11px; /* Space between links */
 }
 
 .content-links a {
