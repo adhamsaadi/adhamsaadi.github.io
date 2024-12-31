@@ -64,7 +64,7 @@ h3 {
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;  /* Allows wrapping if necessary */
-    gap: 11px; /* Space between links */
+    gap: 14px; /* Space between links */
 }
 
 .content-links a {
@@ -72,7 +72,7 @@ h3 {
     color: #3498db;
     text-decoration: none;
     transition: color 0.3s ease;
-    padding: 8px 16px;
+    padding: 4px 8px;
     border-radius: 5px;
     background-color: #ecf0f1;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
