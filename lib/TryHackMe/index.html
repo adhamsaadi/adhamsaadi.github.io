@@ -92,10 +92,13 @@
             title.className = 'title';
             title.innerText = titleText;
             title.addEventListener('click', () => {
-                modalImage.src = `images/${titleText}.png`;
-                imageModal.style.display = 'block';
-                history.pushState(null, null, '#image-view');
-            });
+		modalImage.src = '';
+		setTimeout(() => {
+		modalImage.src = `images/${titleText}.png`;
+		imageModal.style.display = 'block';
+		history.pushState(null, null, '#image-view');
+		}, 50);
+	    });
             titlesContainer.appendChild(title);
         });
 
