@@ -1,2 +1,2 @@
-## This repository contains -> [My-Resume-Website](https://adhamsaadi.github.io/cv)
+## This repository contains -> [My-Resume-Website](https://adhamsaadi.github.io/resume)
 ![ ](/lib/review.gif)
